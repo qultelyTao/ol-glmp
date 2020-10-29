@@ -14,6 +14,10 @@
     "webgl",
     "polygon"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qultelyTao/ol-glmp.git"
+  },
   "author": "Xu Tao",
   "license": "ISC"
 }
