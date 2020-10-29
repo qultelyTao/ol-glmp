@@ -51,9 +51,3 @@ map.addLayer(layer);
 ```
 
 
-
-
-
-## License
-
-MIT
